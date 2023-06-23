@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0d-0x
 - 👀 I’m interested in software and Security Engineeing
-- 🌱 I’m currently learning Web Dev and pentesting
+- 🌱 I’m currently learning SE @ ALX-SWE
 - 💞️ I’m looking to collaborate on community projects
 
 <!---
