@@ -11,11 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm c0d_0x</h1>
 <h3 align="center">A passionate System Security Engineer and Programmer</h3>
-[]<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0d-0x" alt="c0d-0x" /></a> </p>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fprogrammer-work-laptop-computer-website-code-program-concept_40732067.htm&psig=AOvVaw3tfz83pxQOTIKlf9qz7emi&ust=1708417632081000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiUoeb9toQDFQAAAAAdAAAAABAD" alt="c0d-0x" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0d-0x&label=Profile%20views&color=0e75b6&style=flat" alt="c0d-0x" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0d-0x" alt="c0d-0x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/c0d_0x" target="blank"><img src="https://img.shields.io/twitter/follow/c0d_0x?logo=twitter&style=for-the-badge" alt="c0d_0x" /></a> </p>
 
