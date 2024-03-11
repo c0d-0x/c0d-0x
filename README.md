@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **c0d_0x007@proton.me**
 
-- ⚡ Fun fact **I USE ARCH BW!!!**
+- ⚡ Fun fact **I USE ARCH BTW!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
