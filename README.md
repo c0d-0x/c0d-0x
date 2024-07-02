@@ -2,6 +2,10 @@
 
 🌱 I’m currently learning Systems Programming and Security Engineering<br><br>👯 I’m looking to collaborate on system programming open source projects<br><br>🤝 I’m looking for help with openssl: libcrypto and libssl<br><br>💬 Ask me about Linux, C, Python<br><br>📫 How to reach me c0d_0x007@proton.me<br><br>⚡ Fun fact: I USE ARCH BTW!!!
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=c0d-0x&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🌐 Socials:
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cluxes) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/c0d_0x) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bluzsh0x01)
@@ -16,9 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=c0d-0x&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d-0x&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=c0d-0x&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
