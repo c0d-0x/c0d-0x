@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning Systems Programming and Security Engineering<br><br>👯 I’m looking to collaborate on system programming open source projects<br><br>🤝 I’m looking for help with openssl: libcrypto and libssl<br><br>💬 Ask me about Linux, C, Python<br><br>📫 How to reach me c0d_0x007@proton.me<br><br>⚡ Fun fact: I USE ARCH BTW!!!
+🌱 I’m currently learning Systems Programming and Security Engineering<br><br>👯 I’m looking to collaborate on system programming open source projects<br><br>🤝 I’m looking for help with openssl: libcrypto and libssl<br><br>💬 Ask me about Linux, C, Python<br><br><br>⚡ Fun fact: I USE ARCH BTW!!!
 
 ## 🏆 GitHub Trophies
 
