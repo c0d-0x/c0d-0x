@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=c0d-0x&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 
 🌱 I’m currently learning Systems Programming and Security Engineering<br><br>👯 I’m looking to collaborate on system programming open source projects<br><br>🤝 I’m passionate about security research and linux engineering<br><br>💬 Ask me about Linux, system programming and security<br><br><br>⚡ Fun fact: I USE ARCH BTW!!!
@@ -26,7 +28,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=c0d-0x&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=c0d-0x&icon=2&color=0)](https://visitcount.itsvg.in) -->
 
