@@ -22,7 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=c0d-0x&icon=4&color=0)](https://visitcount.itsvg.in)
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/c0d_0x) 
+<--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/c0d_0x) ../>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
