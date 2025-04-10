@@ -1,10 +1,28 @@
-# 💫 About Me:🌱 I'm an aspiring Security Engineer with a strong passion for Systems Programming and Linux internals.
-👯 Always open to collaborating on open-source projects, especially those rooted in low-level programming and system design.
-🤝 Deeply interested in security research, Linux engineering, and exploring how things work under the hood.
-💬 Feel free to reach out if you want to chat about Linux, system programming, or cybersecurity.
-⚡ Fun fact: I use Arch, by the way 😎
+<h1 align="center">Hey there 👋, I'm C0d-0x</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Security%20Engineer%20in%20Progress&fontColor=58A6FF&fontSize=30&animation=fadeIn" alt="banner"/>
+</p>
 
+---
+### 👨‍💻 About Me
 
+```bash
+$ whoami
+Aspiring Security Engineer | Linux Fanatic | Systems Programmer
+```
+### 🧠 Interests
+```bash
+$ cat /etc/passions
+- security_research
+- systems_programming
+- linux_engineering
+- reverse_engineering
+```
+### ⚡ Fun Fact
+```bash
+$ uname -a
+Arch Linux 6.x.x ... # btw 😎
+```
 ---
 [![](https://visitcount.itsvg.in/api?id=c0d-0x&icon=4&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
