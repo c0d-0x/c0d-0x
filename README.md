@@ -1,5 +1,8 @@
-# 💫 About Me:
-🌱 I’m currently learning Systems Programming and Security Engineering<br><br>👯 I’m looking to collaborate on system programming open source projects<br><br>🤝 I’m passionate about security research and linux engineering<br><br>💬 Ask me about Linux, system programming and security<br><br><br>⚡ Fun fact: I USE ARCH BTW!!!
+# 💫 About Me:🌱 I'm an aspiring Security Engineer with a strong passion for Systems Programming and Linux internals.
+👯 Always open to collaborating on open-source projects, especially those rooted in low-level programming and system design.
+🤝 Deeply interested in security research, Linux engineering, and exploring how things work under the hood.
+💬 Feel free to reach out if you want to chat about Linux, system programming, or cybersecurity.
+⚡ Fun fact: I use Arch, by the way 😎
 
 
 ---
