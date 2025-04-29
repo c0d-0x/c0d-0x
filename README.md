@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm C0d-0x</h1>
+<h1 align="center">Hey there 👋, I'm C0d_0x</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Security%20Engineer%20in%20Progress&fontColor=58A6FF&fontSize=30&animation=fadeIn" alt="banner"/>
 </p>
@@ -17,11 +17,13 @@ $ cat /etc/passions
 - systems_programming
 - linux_engineering
 - reverse_engineering
+- application security
+- breaking stuff ;)
 ```
 ### ⚡ Fun Fact
 ```bash
 $ uname -a
-Arch Linux 6.x.x ... # btw 😎
+Arch Linux 6.x.x ... # btw 😎, a 100%
 ```
 ---
 [![](https://visitcount.itsvg.in/api?id=c0d-0x&icon=4&color=0)](https://visitcount.itsvg.in)
