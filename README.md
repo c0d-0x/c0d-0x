@@ -17,8 +17,8 @@ $ cat /etc/passions
 - systems_programming
 - linux_engineering
 - reverse_engineering
-- application security
-- breaking stuff ;)
+- application_security
+- breaking_stuff ;)
 ```
 ### ⚡ Fun Fact
 ```bash
