@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm C0d_0x</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Aspiring%20Security%20Engineer&fontColor=58A6FF&fontSize=30&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=A%20Security%20Engineering%20Enthusiast&fontColor=58A6FF&fontSize=30&animation=fadeIn" alt="banner"/>
 </p>
 
 ---
