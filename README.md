@@ -14,7 +14,7 @@ Aspiring Security Engineer | Linux Fanatic | Systems Programmer
 ```bash
 $ cat /etc/passions
 - security_research
-- systems_programming
+- system_programming
 - linux_engineering
 - reverse_engineering
 - application_security
