@@ -28,7 +28,7 @@ Arch Linux 6.x.x ... # btw 😎, a 100%
 ---
 [![](https://visitcount.itsvg.in/api?id=c0d-0x&icon=4&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/c0d0x.bsky.social) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cluxes) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitch.tv/c0d_0x) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bluzsh0x01)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/c0d0x.bsky.social) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitch.tv/c0d_0x) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bluzsh0x01)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=c0d-0x&theme=radical&no-frame=false&no-bg=false&margin-w=4)
