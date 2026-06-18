@@ -23,7 +23,7 @@ $ cat /etc/passions
 ### ⚡ Fun Fact
 ```bash
 $ uname -a
-Arch Linux 6.x.x ... # btw 😎, a 100%
+Arch Linux 7.x.x ... # btw 😎, a 100%
 ```
 ---
 [![](https://visitcount.itsvg.in/api?id=c0d-0x&icon=4&color=0)](https://visitcount.itsvg.in)
