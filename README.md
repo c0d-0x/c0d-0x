@@ -14,11 +14,12 @@ Security Engineer | Linux Fanatic | Systems Programmer
 ```bash
 $ cat /etc/passions
 - security_research
-- cryptography_engineering
+- cryptography
 - system_programming
 - linux_engineering
 - reverse_engineering
 - application_security
+- cryptography_engineering
 - breaking_stuff ;)
 ```
 ### ⚡ Fun Fact
