@@ -8,12 +8,13 @@
 
 ```bash
 $ whoami
-Aspiring Security Engineer | Linux Fanatic | Systems Programmer
+Security Engineer | Linux Fanatic | Systems Programmer
 ```
 ### 🧠 Interests
 ```bash
 $ cat /etc/passions
 - security_research
+- cryptography_engineering
 - system_programming
 - linux_engineering
 - reverse_engineering
